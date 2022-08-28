@@ -1,7 +1,6 @@
-# React-Default React 项目的默认模板
+# Vite + React 项目的默认模板
 
 ## 技术栈
-
 
 - 📦 [UI 组件 Ant Design](https://ant.design/docs/react/introduce-cn)
 
@@ -15,7 +14,7 @@
 
 ### TODO
 
-- 💬 状态管理方案
+- 💬 考虑使用哪套状态管理方案
 - 💬 Axios + useRequest 封装
 
 ### 开发建议
@@ -28,7 +27,7 @@
 
 ## 使用
 
-1. `git clone git@git.xmov.ai:frontend/template-react-default.git my-app`
+1. `git clone git@github.com:Mintnoii/tmpl-react.git my-app`
 2. `cd my-app`
 3. `yarn`
 4. `yarn dev`
