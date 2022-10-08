@@ -12,11 +12,6 @@
 
 - 🚀 [实用的工具合集 ahooks](https://ahooks.js.org/zh-CN)
 
-### TODO
-
-- 💬 考虑使用哪套状态管理方案
-- 💬 Axios + useRequest 封装
-
 ### 开发建议
 
 **👍 推荐优先使用原子化 Windi CSS 实现样式开发**
